@@ -158,8 +158,8 @@ $ rtabmap-databaseViewer  rtabmap.db
 
 Need to add some windows to get a better view of the relevant information, so:
 
-Say yes to using the database parameters
-View -> Constraint View
-View -> Graph View
+>> Say yes to using the database parameters
+>> View -> Constraint View
+>> View -> Graph View
 
 
