@@ -6,14 +6,14 @@ Using RTAB-Map &amp; SLAM Project with ROS kinetic, Project  (Where Am I) Soluti
 
 # Project Overview
 
-Welcome to the  `Where Am I?`  localization project! In this project, We will learn to utilize ROS AMCL package to accurately localize a mobile robot inside a map in the Gazebo simulation environments.
+Welcome to the  `MAp My World?`  SLAM project! In this project, We will learn to utilize ROS AMCL package to accurately localize a mobile robot inside a map in the Gazebo simulation environments.
 
 
 -   Create a ROS package that launches a custom robot model in a custom Gazebo world
     
--   Utilize the ROS AMCL package and the Tele-Operation / Navigation Stack to localize the robot
+-   Utilize the ROS RTMAP package and the Tele-Operation / Navigation Stack to localize the robot
     
--   Explore, add, and tune specific parameters corresponding to each package to achieve the best possible localization results
+-   Explore, add, and tune specific parameters corresponding to each package to achieve the best possible slam map results
 
 
 ### Native Installation & Virtual Machine
