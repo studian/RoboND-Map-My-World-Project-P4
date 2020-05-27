@@ -151,7 +151,7 @@ $ roslaunch <YOUR PACKAGE NAME> mapping.launch
 
 ### Open mapping database:
 
-Download rtabmap.db file from : https://tinyurl.com/y88nuwyq
+Download rtabmap.db file from : https://tinyurl.com/y7fzah3q
 ```
 $ rtabmap-databaseViewer  rtabmap.db
 ```
@@ -163,6 +163,3 @@ Need to add some windows to get a better view of the relevant information, so:
 	View -> Constraint View
 	View -> Graph View
 ```
-
-
-![alt text](images/map.png)
