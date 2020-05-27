@@ -163,3 +163,6 @@ Need to add some windows to get a better view of the relevant information, so:
 	View -> Constraint View
 	View -> Graph View
 ```
+
+
+![alt text](images/map.png)
